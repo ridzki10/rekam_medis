@@ -1,0 +1,75 @@
+#layout {
+	background-repeat:repeat;
+	background: url(admin/image/bg.jpg);
+}
+#body {
+	height: auto;
+	width: 850px;
+}
+#header {
+	background-repeat: no-repeat;
+	float: left;
+	height: 100px;
+	width: 850px;
+	margin-left:20px; margin-left:20px; padding-bottom:5px;
+	/*background-image: url(images/header.jpg);*/
+}
+#level {
+	background-repeat: no-repeat;
+	float: left;
+	height: 100px;
+	width: 850px;
+	background-image: url(images/level.jpg);
+}
+
+
+#admin, #dokter {
+	background-repeat: no-repeat;
+	float: left;
+	height: 80px;
+	width: 262px;
+	padding: 10px;
+	background-color: #29166F;
+	font-family: Arial;
+	text-transform: uppercase;
+	font-size: 50px;
+	line-height: 70px;
+	color: yellow;
+	border-top: 1px solid white;
+	border-right: 1px solid white;
+	border-bottom: 1px solid white;
+	/*background-image: url(images/btadmin.jpg);*/
+}
+/*#dokter {*/
+	/*background-repeat: no-repeat;
+	float: right;
+	height: 100px;
+	width: 425px;*/
+	/*background-image: url(images/btdokter.jpg);*/
+	/*background-color: #29166F;
+	font-family: Arial;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 80px;
+	color: yellow;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;*/
+/*}*/
+#tengah {
+	background-repeat: no-repeat;
+	float: left;
+	height: 100px;
+	width: 850px;
+	background-image: url(images/tengah.jpg);
+}
+#footer {
+	float: left;
+	height: 80px;
+	width: 850px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #666666;
+	background-repeat: no-repeat;
+	/*background-image: url(images/footer.jpg);*/
+}
